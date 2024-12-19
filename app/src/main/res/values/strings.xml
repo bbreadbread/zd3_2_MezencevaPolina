@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTV2</string>
+    <string name="biglogo">MADVENTURE</string>
+    <string name="minilogo">Rediscover the workd</string>
+    <string name="barash">Barash</string>
+    <string name="moods_from_smeshariki">Moods from Smeshariki</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+</resources>
